@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "All test cases",
+      "setup": "",
+      "run": "make check",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
